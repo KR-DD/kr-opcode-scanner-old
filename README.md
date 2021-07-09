@@ -1,5 +1,6 @@
 # opcode-scanner
 tera-toolbox module to scan opcodes using modular heuristics for K-Tera
+
 based off https://github.com/ylennia-archives/opcode-scanner
 
 ## Usage
