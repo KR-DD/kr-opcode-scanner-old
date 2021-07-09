@@ -1,0 +1,1 @@
+This definition files must be copy in 'TeraToolbox\data\definitions\'

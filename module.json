@@ -1,0 +1,13 @@
+{
+    "name": "kr-opcode-scanner",
+    "version": "1.0.0",
+    "servers": ["https://raw.githubusercontent.com/KR-DD/kr-opcode-scanner/master/"],
+    "supportUrl": "https://github.com/KR-DD/kr-opcode-scanner/issues",
+    "author": "KR-DD",
+    "description": "Opcode scanner for KR-Tera which uses heuristic.",
+    "disableAutoUpdate": false,
+    "options": {
+        "cliName": "kr-opcode-scanner",
+        "guiName": "KR Opcode Scanner"
+    }
+}
